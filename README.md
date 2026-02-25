@@ -6,3 +6,6 @@ In this research project, I explored how fractal geometry can be applied both th
 The work combined mathematics (self-similarity, fractional dimensions, infinite sets), finance (quantitative analysis, trend detection, market predictability), and software development (Python programming, data analysis with Pandas, NumPy, Matplotlib, Jupyter Notebooks and YahooFinance). I developed algorithms to compute fractal dimensions, model iterative systems, and process historical market data to identify persistence or mean reversion patterns.
 
 Through this project, I strengthened my skills in mathematical modeling, statistical analysis, and Python-based computation, while also gaining insight into how theoretical concepts translate into real-world applications in finance and technology, both being my passion.
+
+Mandatory: Must use Python 3.13 or older to support libraries
+Recommended: Use JupyterNotebooks to run the code for better performance
