@@ -1,4 +1,4 @@
-# research_project
+# Fractal Geometry: Computation & Market Predictability
 Fractal Geometry: Computation &amp; Market Predictability, combining mathematics, finance, and Python to explore how fractals can model complexity and reveal market trends.
 
 In this research project, I explored how fractal geometry can be applied both theoretically and practically to understand complexity in mathematics, natural systems, and financial markets. I focused on two main areas: generating and analyzing fractal sets (such as the Mandelbrot set) and applying fractal-based tools, particularly the Hurst exponent to assess market trends and volatility before and during the 2008 financial crisis.
